@@ -26,15 +26,15 @@
 
 ### 3. 启动编译
 
-在 Fork 后的仓库页面，点击 Actions 标签页，选择 Build OpenWrt 工作流，点击 Run workflow 即可开始编译。
+1.Fork本仓库
+2.加入自己的Token
+3.可以手动运行或者点击Start触发编译程序
 
-![Run Workflow](https://user-images.githubusercontent.com/44642536/98809954-8a1fa600-245b-11eb-85e3-8bb73f0dcb1b.png)
 
 ### 4. 下载固件
 
 编译完成后，生成的固件会自动上传到 GitHub Releases，你可以在 Releases 页面下载。
 
-![Releases](https://docs.github.com/assets/images/help/repository/releases-tab.png)
 
 ## 注意事项
 
