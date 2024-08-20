@@ -1,7 +1,9 @@
 # OpenWrt-CTC 在线编译项目
 
 ![OpenWrt](https://openwrt.org/_media/logo.png)
-
+<div align="center">
+<img width="768" src="https://cdn.jsdelivr.net/gh/haiibo/OpenWrt/images/openwrt.png"/>
+<h1>OpenWrt — 多设备固件云编译</h1>
 ## 项目简介
 
 此仓库用于在线编译 OpenWrt 固件，支持多种设备。你可以通过 GitHub Actions 自动化编译你的固件，无需在本地配置编译环境。编译后的固件可直接用于设备刷机。
