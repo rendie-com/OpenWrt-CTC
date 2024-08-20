@@ -19,7 +19,6 @@
 
 点击右上角的 Fork 按钮，将此仓库 Fork 到你自己的 GitHub 账户。
 
-![Fork](https://docs.github.com/assets/images/help/repository/fork_button.jpg)
 
 ### 2. 配置参数
 
