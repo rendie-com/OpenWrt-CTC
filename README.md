@@ -1,6 +1,6 @@
 # OpenWrt-CTC 在线编译项目
 
-![OpenWrt]([https://openwrt.org/_media/logo.png](https://cdn.jsdelivr.net/gh/haiibo/OpenWrt/images/openwrt.png))
+![OpenWrt](https://openwrt.org/_media/logo.png))
 
 ## 项目简介
 
