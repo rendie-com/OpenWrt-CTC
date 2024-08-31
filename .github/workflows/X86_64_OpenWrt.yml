@@ -1,8 +1,8 @@
 name: x86_OpenWrt
 
 on:
-  watch:
-    types: started
+#  watch:
+#    types: started
 
 env:
   REPO_URL: https://github.com/openwrt/openwrt
