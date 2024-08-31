@@ -24,9 +24,10 @@ function git_sparse_clone() {
 
 
 # 加入第三方源
-git clone --depth=1 https://github.com/kenzok8/openwrt-packages package/kenzo
-git clone --depth=1 https://github.com/kenzok8/small package/small
+git clone --depth=1 https://github.com/oppen321/argon package/my-theme
+git clone --depth=1 https://github.com/oppen321/HD-tproxy package/HD-tproxy
 git clone --depth=1 https://github.com/morytyann/OpenWrt-mihomo package/mihomo
+git clone --depth=1 https://github.com/oppen321/openwrt-packages package/oppen321
 
 # 更换golong 23.x
 git clone https://github.com/oppen321/golang feeds/packages/lang/golang
